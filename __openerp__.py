@@ -6,6 +6,8 @@
     """
     Sale Order Improvements. 
     
+    This modules adds a last page to each sales order report with the company sales conditions.
+    
     This module has been developed by Bernard Delhez, intern @ AbAKUS it-solutions.
     """,
     'depends': [
