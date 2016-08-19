@@ -1,14 +1,13 @@
 ﻿{
     'name': 'Sale Order Improvements',
-    'version': '1.0',
+    'version': '9.0.1.0',
     'category': 'Sales',
     'description': 
-    """
-    Sale Order Improvements. 
-    
-    This modules adds a last page to each sales order report with the company sales conditions.
-    
-    This module has been developed by Bernard Delhez, intern @ AbAKUS it-solutions.
+    """Sale Order Improvements. 
+
+This modules adds a last page to each sales order report with the company sales conditions.
+
+This module has been developed by Bernard Delhez, intern @ AbAKUS it-solutions.
     """,
     'depends': [
         'base_setup',
