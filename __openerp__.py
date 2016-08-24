@@ -1,6 +1,6 @@
 ﻿{
     'name': 'Sale Order Improvements',
-    'version': '9.0.1.0',
+    'version': '8.0.1.0',
     'category': 'Sales',
     'description': 
     """Sale Order Improvements. 
